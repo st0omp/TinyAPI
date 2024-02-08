@@ -1,0 +1,9 @@
+{
+    "name": "st0omp/tinyapi",
+    "autoload": {
+        "psr-4": {
+            "St0omp\\TinyApi\\": "src/"
+        }
+    },
+    "require": {}
+}
